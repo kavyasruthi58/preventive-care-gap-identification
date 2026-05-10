@@ -1,0 +1,709 @@
+member_id,first_name,last_name,dob,gender,plan_type,risk_score,county,age,gap_type
+187,Taylor,Mcdonald,1981-05-20,Female,Employer Sponsored,3.49,Richmond,45,Colorectal Screening
+809,Kayla,Harding,1948-05-28,Female,Employer Sponsored,3.49,Richmond,78,Annual Wellness Visit
+711,Dawn,Harris,1955-05-27,Female,Employer Sponsored,3.49,Fairfax,71,Breast Cancer Screening
+601,Philip,Curry,1973-05-22,Male,Employer Sponsored,3.49,Henrico,53,Colorectal Screening
+711,Dawn,Harris,1955-05-27,Female,Employer Sponsored,3.49,Fairfax,71,Annual Wellness Visit
+880,Donald,Swanson,1957-05-26,Male,Employer Sponsored,3.48,Arlington,69,Colorectal Screening
+466,Randy,Rodriguez,1960-05-25,Male,Medicare Advantage,3.47,Henrico,66,Annual Wellness Visit
+223,Tyler,Roberts,1942-05-30,Male,Medicare Advantage,3.46,Fairfax,84,Annual Wellness Visit
+930,Deborah,Reed,1960-05-25,Female,Medicare Advantage,3.44,Fairfax,66,Annual Wellness Visit
+174,Antonio,Sullivan,1943-05-30,Male,Employer Sponsored,3.44,Henrico,83,Annual Wellness Visit
+311,Barbara,Kelly,1956-05-26,Female,Employer Sponsored,3.44,Fairfax,70,Annual Wellness Visit
+788,Joseph,Krause,1953-05-27,Male,Medicare Advantage,3.44,Henrico,73,Colorectal Screening
+139,Alex,Bryant,1950-05-28,Male,Employer Sponsored,3.44,Henrico,76,Annual Wellness Visit
+646,Mark,White,1976-05-21,Male,Medicare Advantage,3.43,Arlington,50,Colorectal Screening
+762,Christina,Johnson,1951-05-28,Female,Medicare Advantage,3.43,Fairfax,75,Annual Wellness Visit
+478,Joshua,Lopez,1958-05-26,Male,Employer Sponsored,3.41,Fairfax,68,Colorectal Screening
+478,Joshua,Lopez,1958-05-26,Male,Employer Sponsored,3.41,Fairfax,68,Annual Wellness Visit
+727,Trevor,Maynard,1971-05-23,Male,Employer Sponsored,3.4,Arlington,55,Colorectal Screening
+781,Dennis,Frank,1954-05-27,Male,Medicare Advantage,3.39,Richmond,72,Annual Wellness Visit
+119,Brenda,Johnson,1947-05-29,Female,Medicare Advantage,3.39,Richmond,79,Annual Wellness Visit
+32,Brian,Wheeler,1963-05-25,Male,Employer Sponsored,3.39,Henrico,63,Colorectal Screening
+754,Jeremiah,Delacruz,1974-05-22,Male,Employer Sponsored,3.37,Fairfax,52,Colorectal Screening
+797,Timothy,Davis,1972-05-22,Male,Employer Sponsored,3.37,Fairfax,54,Colorectal Screening
+409,Megan,Patterson,1968-05-23,Female,Employer Sponsored,3.36,Fairfax,58,Breast Cancer Screening
+772,Laura,Dodson,1955-05-27,Female,Employer Sponsored,3.35,Fairfax,71,Breast Cancer Screening
+772,Laura,Dodson,1955-05-27,Female,Employer Sponsored,3.35,Fairfax,71,Annual Wellness Visit
+772,Laura,Dodson,1955-05-27,Female,Employer Sponsored,3.35,Fairfax,71,Colorectal Screening
+31,Jennifer,Vasquez,1954-05-27,Female,Employer Sponsored,3.34,Henrico,72,Annual Wellness Visit
+889,Matthew,Pollard,1951-05-28,Male,Medicare Advantage,3.34,Henrico,75,Annual Wellness Visit
+458,Karen,Baker,1943-05-30,Female,Medicare Advantage,3.34,Richmond,83,Annual Wellness Visit
+889,Matthew,Pollard,1951-05-28,Male,Medicare Advantage,3.34,Henrico,75,Colorectal Screening
+31,Jennifer,Vasquez,1954-05-27,Female,Employer Sponsored,3.34,Henrico,72,Colorectal Screening
+814,Stephen,Hamilton,1964-05-24,Male,Medicare Advantage,3.34,Henrico,62,Colorectal Screening
+31,Jennifer,Vasquez,1954-05-27,Female,Employer Sponsored,3.34,Henrico,72,Breast Cancer Screening
+105,Edward,Dixon,1966-05-24,Male,Medicare Advantage,3.33,Fairfax,60,Colorectal Screening
+938,Kristen,Robertson,1954-05-27,Female,Employer Sponsored,3.32,Richmond,72,Colorectal Screening
+938,Kristen,Robertson,1954-05-27,Female,Employer Sponsored,3.32,Richmond,72,Annual Wellness Visit
+938,Kristen,Robertson,1954-05-27,Female,Employer Sponsored,3.32,Richmond,72,Breast Cancer Screening
+399,Dennis,Dudley,1943-05-30,Male,Medicare Advantage,3.3,Richmond,83,Annual Wellness Visit
+59,Deanna,Harding,1954-05-27,Female,Employer Sponsored,3.3,Richmond,72,Annual Wellness Visit
+888,Danielle,Schneider,1950-05-28,Female,Employer Sponsored,3.29,Arlington,76,Annual Wellness Visit
+975,Megan,Lee,1953-05-27,Female,Employer Sponsored,3.29,Richmond,73,Colorectal Screening
+975,Megan,Lee,1953-05-27,Female,Employer Sponsored,3.29,Richmond,73,Annual Wellness Visit
+584,Belinda,Harper,1981-05-20,Female,Medicare Advantage,3.27,Richmond,45,Colorectal Screening
+695,Megan,Gillespie,1967-05-24,Female,Medicare Advantage,3.25,Henrico,59,Colorectal Screening
+95,Angela,Mcbride,1961-05-25,Female,Medicare Advantage,3.25,Richmond,65,Breast Cancer Screening
+95,Angela,Mcbride,1961-05-25,Female,Medicare Advantage,3.25,Richmond,65,Annual Wellness Visit
+695,Megan,Gillespie,1967-05-24,Female,Medicare Advantage,3.25,Henrico,59,Breast Cancer Screening
+398,Julia,Kelly,1962-05-25,Female,Medicare Advantage,3.24,Henrico,64,Breast Cancer Screening
+819,Anna,Gutierrez,1960-05-25,Female,Medicare Advantage,3.23,Arlington,66,Annual Wellness Visit
+211,April,Terrell,1956-05-26,Female,Employer Sponsored,3.23,Fairfax,70,Colorectal Screening
+211,April,Terrell,1956-05-26,Female,Employer Sponsored,3.23,Fairfax,70,Breast Cancer Screening
+211,April,Terrell,1956-05-26,Female,Employer Sponsored,3.23,Fairfax,70,Annual Wellness Visit
+819,Anna,Gutierrez,1960-05-25,Female,Medicare Advantage,3.23,Arlington,66,Breast Cancer Screening
+819,Anna,Gutierrez,1960-05-25,Female,Medicare Advantage,3.23,Arlington,66,Colorectal Screening
+747,Bethany,Campbell,1954-05-27,Female,Medicare Advantage,3.22,Arlington,72,Breast Cancer Screening
+747,Bethany,Campbell,1954-05-27,Female,Medicare Advantage,3.22,Arlington,72,Annual Wellness Visit
+109,Amanda,Nelson,1957-05-26,Female,Medicare Advantage,3.22,Richmond,69,Breast Cancer Screening
+109,Amanda,Nelson,1957-05-26,Female,Medicare Advantage,3.22,Richmond,69,Annual Wellness Visit
+336,Laura,Dean,1968-05-23,Female,Medicare Advantage,3.2,Arlington,58,Colorectal Screening
+901,Shawn,Coleman,1953-05-27,Male,Employer Sponsored,3.19,Richmond,73,Annual Wellness Visit
+320,Robert,Nelson,1949-05-28,Male,Employer Sponsored,3.18,Arlington,77,Annual Wellness Visit
+60,Robin,Flores,1980-05-20,Female,Medicare Advantage,3.17,Henrico,46,Colorectal Screening
+856,Robert,Fuller,1946-05-29,Male,Employer Sponsored,3.16,Richmond,80,Annual Wellness Visit
+660,Chloe,Brown,1975-05-22,Female,Medicare Advantage,3.16,Henrico,51,Breast Cancer Screening
+999,Jeffrey,Hensley,1952-05-27,Male,Employer Sponsored,3.15,Henrico,74,Annual Wellness Visit
+71,Ashley,Cruz,1945-05-29,Female,Medicare Advantage,3.14,Richmond,81,Annual Wellness Visit
+790,Derek,Collins,1953-05-27,Male,Employer Sponsored,3.13,Arlington,73,Colorectal Screening
+790,Derek,Collins,1953-05-27,Male,Employer Sponsored,3.13,Arlington,73,Annual Wellness Visit
+288,Taylor,Torres,1954-05-27,Female,Employer Sponsored,3.13,Henrico,72,Annual Wellness Visit
+899,Katherine,Duran,1945-05-29,Female,Employer Sponsored,3.13,Fairfax,81,Annual Wellness Visit
+186,Timothy,Patrick,1976-05-21,Male,Employer Sponsored,3.12,Richmond,50,Colorectal Screening
+240,Ariel,Kent,1970-05-23,Female,Employer Sponsored,3.12,Arlington,56,Breast Cancer Screening
+240,Ariel,Kent,1970-05-23,Female,Employer Sponsored,3.12,Arlington,56,Colorectal Screening
+908,Brianna,Martinez,1949-05-28,Female,Medicare Advantage,3.12,Henrico,77,Annual Wellness Visit
+182,Jessica,Montgomery,1964-05-24,Female,Employer Sponsored,3.11,Arlington,62,Breast Cancer Screening
+765,Timothy,Rivers,1942-05-30,Male,Employer Sponsored,3.11,Richmond,84,Annual Wellness Visit
+531,Nathan,Mccoy,1957-05-26,Male,Medicare Advantage,3.1,Richmond,69,Annual Wellness Visit
+531,Nathan,Mccoy,1957-05-26,Male,Medicare Advantage,3.1,Richmond,69,Colorectal Screening
+865,Sean,Jacobs,1958-05-26,Male,Employer Sponsored,3.1,Henrico,68,Colorectal Screening
+865,Sean,Jacobs,1958-05-26,Male,Employer Sponsored,3.1,Henrico,68,Annual Wellness Visit
+702,Victor,Elliott,1964-05-24,Male,Medicare Advantage,3.09,Richmond,62,Colorectal Screening
+540,Michael,Christian,1980-05-20,Male,Employer Sponsored,3.09,Richmond,46,Colorectal Screening
+74,Mark,Velazquez,1941-05-30,Male,Medicare Advantage,3.08,Henrico,85,Annual Wellness Visit
+542,Carla,Morris,1945-05-29,Female,Employer Sponsored,3.08,Arlington,81,Annual Wellness Visit
+569,Perry,Ellison,1957-05-26,Male,Employer Sponsored,3.08,Richmond,69,Colorectal Screening
+569,Perry,Ellison,1957-05-26,Male,Employer Sponsored,3.08,Richmond,69,Annual Wellness Visit
+552,Christopher,Miller,1956-05-26,Male,Employer Sponsored,3.05,Arlington,70,Annual Wellness Visit
+51,Mary,Maynard,1964-05-24,Female,Medicare Advantage,3.05,Richmond,62,Colorectal Screening
+51,Mary,Maynard,1964-05-24,Female,Medicare Advantage,3.05,Richmond,62,Breast Cancer Screening
+610,Amber,Cooper,1978-05-21,Female,Employer Sponsored,3.05,Arlington,48,Colorectal Screening
+525,Paige,Rodriguez,1974-05-22,Female,Employer Sponsored,3.04,Henrico,52,Colorectal Screening
+644,Gabrielle,Duran,1947-05-29,Female,Medicare Advantage,3.04,Fairfax,79,Annual Wellness Visit
+366,Xavier,Chambers,1962-05-25,Male,Medicare Advantage,3.04,Arlington,64,Colorectal Screening
+348,Alan,Blackwell,1963-05-25,Male,Employer Sponsored,3.04,Fairfax,63,Colorectal Screening
+244,Heather,Cisneros,1945-05-29,Female,Employer Sponsored,3.04,Richmond,81,Annual Wellness Visit
+351,Cindy,White,1954-05-27,Female,Employer Sponsored,3.03,Richmond,72,Annual Wellness Visit
+351,Cindy,White,1954-05-27,Female,Employer Sponsored,3.03,Richmond,72,Breast Cancer Screening
+459,Connie,Stephenson,1970-05-23,Female,Medicare Advantage,3.03,Henrico,56,Breast Cancer Screening
+773,Tiffany,Jenkins,1944-05-29,Female,Medicare Advantage,3.03,Fairfax,82,Annual Wellness Visit
+639,Christina,Flores,1960-05-25,Female,Medicare Advantage,3.01,Arlington,66,Breast Cancer Screening
+639,Christina,Flores,1960-05-25,Female,Medicare Advantage,3.01,Arlington,66,Annual Wellness Visit
+177,Heather,Spence,1978-05-21,Female,Employer Sponsored,3.01,Arlington,48,Colorectal Screening
+428,Mia,Carey,1950-05-28,Female,Medicare Advantage,3.0,Richmond,76,Annual Wellness Visit
+215,Elizabeth,Velasquez,1970-05-23,Female,Medicare Advantage,3.0,Arlington,56,Breast Cancer Screening
+262,Donna,Austin,1945-05-29,Female,Employer Sponsored,3.0,Fairfax,81,Annual Wellness Visit
+215,Elizabeth,Velasquez,1970-05-23,Female,Medicare Advantage,3.0,Arlington,56,Colorectal Screening
+995,Donna,Parker,1950-05-28,Female,Medicare Advantage,3.0,Richmond,76,Annual Wellness Visit
+204,David,Wilson,1963-05-25,Male,Employer Sponsored,2.99,Fairfax,63,Colorectal Screening
+502,Bryan,Murphy,1945-05-29,Male,Employer Sponsored,2.99,Richmond,81,Annual Wellness Visit
+127,Nathan,Scott,1942-05-30,Male,Medicare Advantage,2.99,Richmond,84,Annual Wellness Visit
+346,Cody,Mills,1964-05-24,Male,Medicare Advantage,2.99,Henrico,62,Colorectal Screening
+63,Maria,Greer,1956-05-26,Female,Employer Sponsored,2.99,Richmond,70,Colorectal Screening
+63,Maria,Greer,1956-05-26,Female,Employer Sponsored,2.99,Richmond,70,Annual Wellness Visit
+97,Peter,Bush,1957-05-26,Male,Employer Sponsored,2.99,Arlington,69,Annual Wellness Visit
+63,Maria,Greer,1956-05-26,Female,Employer Sponsored,2.99,Richmond,70,Breast Cancer Screening
+771,Brandy,Jefferson,1961-05-25,Female,Medicare Advantage,2.98,Fairfax,65,Breast Cancer Screening
+869,Brenda,Hart,1963-05-25,Female,Employer Sponsored,2.98,Richmond,63,Colorectal Screening
+771,Brandy,Jefferson,1961-05-25,Female,Medicare Advantage,2.98,Fairfax,65,Annual Wellness Visit
+625,Jessica,Kramer,1960-05-25,Female,Employer Sponsored,2.97,Arlington,66,Annual Wellness Visit
+994,Daniel,Brown,1946-05-29,Male,Medicare Advantage,2.97,Fairfax,80,Annual Wellness Visit
+824,John,Jimenez,1972-05-22,Male,Employer Sponsored,2.97,Richmond,54,Colorectal Screening
+692,Rodney,Medina,1948-05-28,Male,Employer Sponsored,2.96,Henrico,78,Annual Wellness Visit
+165,Bradley,Stokes,1954-05-27,Male,Employer Sponsored,2.94,Richmond,72,Annual Wellness Visit
+361,Randy,Chen,1981-05-20,Male,Medicare Advantage,2.94,Fairfax,45,Colorectal Screening
+419,Ashley,Tucker,1964-05-24,Female,Employer Sponsored,2.93,Arlington,62,Breast Cancer Screening
+623,Sherri,Combs,1955-05-27,Female,Employer Sponsored,2.93,Richmond,71,Annual Wellness Visit
+623,Sherri,Combs,1955-05-27,Female,Employer Sponsored,2.93,Richmond,71,Breast Cancer Screening
+623,Sherri,Combs,1955-05-27,Female,Employer Sponsored,2.93,Richmond,71,Colorectal Screening
+836,Lisa,Morgan,1960-05-25,Female,Employer Sponsored,2.92,Arlington,66,Breast Cancer Screening
+642,Allison,Rogers,1975-05-22,Female,Medicare Advantage,2.92,Fairfax,51,Colorectal Screening
+642,Allison,Rogers,1975-05-22,Female,Medicare Advantage,2.92,Fairfax,51,Breast Cancer Screening
+16,Donna,Hall,1944-05-29,Female,Medicare Advantage,2.92,Arlington,82,Annual Wellness Visit
+836,Lisa,Morgan,1960-05-25,Female,Employer Sponsored,2.92,Arlington,66,Annual Wellness Visit
+836,Lisa,Morgan,1960-05-25,Female,Employer Sponsored,2.92,Arlington,66,Colorectal Screening
+922,Jessica,Rice,1950-05-28,Female,Employer Sponsored,2.91,Arlington,76,Annual Wellness Visit
+619,Shelly,Herrera,1967-05-24,Female,Medicare Advantage,2.91,Henrico,59,Colorectal Screening
+619,Shelly,Herrera,1967-05-24,Female,Medicare Advantage,2.91,Henrico,59,Breast Cancer Screening
+41,Angela,Carroll,1971-05-23,Female,Employer Sponsored,2.9,Richmond,55,Colorectal Screening
+658,Brittney,Williams,1968-05-23,Female,Medicare Advantage,2.9,Richmond,58,Breast Cancer Screening
+377,Russell,Miller,1959-05-26,Male,Employer Sponsored,2.89,Richmond,67,Annual Wellness Visit
+377,Russell,Miller,1959-05-26,Male,Employer Sponsored,2.89,Richmond,67,Colorectal Screening
+89,Taylor,Hoffman,1964-05-24,Female,Employer Sponsored,2.88,Henrico,62,Breast Cancer Screening
+405,Virginia,Thomas,1949-05-28,Female,Employer Sponsored,2.87,Henrico,77,Annual Wellness Visit
+571,Robert,Wood,1969-05-23,Male,Employer Sponsored,2.87,Henrico,57,Colorectal Screening
+222,Steven,Ross,1947-05-29,Male,Medicare Advantage,2.87,Richmond,79,Annual Wellness Visit
+657,Marie,Galvan,1943-05-30,Female,Employer Sponsored,2.87,Henrico,83,Annual Wellness Visit
+925,Sherry,West,1942-05-30,Female,Employer Sponsored,2.86,Fairfax,84,Annual Wellness Visit
+683,Olivia,Atkinson,1960-05-25,Female,Medicare Advantage,2.86,Fairfax,66,Annual Wellness Visit
+654,Susan,Riddle,1974-05-22,Female,Employer Sponsored,2.86,Richmond,52,Breast Cancer Screening
+962,Matthew,Sanchez,1970-05-23,Male,Employer Sponsored,2.86,Arlington,56,Colorectal Screening
+683,Olivia,Atkinson,1960-05-25,Female,Medicare Advantage,2.86,Fairfax,66,Breast Cancer Screening
+72,Judy,Pineda,1949-05-28,Female,Employer Sponsored,2.85,Arlington,77,Annual Wellness Visit
+543,Whitney,Taylor,1957-05-26,Female,Medicare Advantage,2.85,Henrico,69,Annual Wellness Visit
+543,Whitney,Taylor,1957-05-26,Female,Medicare Advantage,2.85,Henrico,69,Colorectal Screening
+479,Grace,Bell,1956-05-26,Female,Employer Sponsored,2.85,Arlington,70,Annual Wellness Visit
+479,Grace,Bell,1956-05-26,Female,Employer Sponsored,2.85,Arlington,70,Colorectal Screening
+479,Grace,Bell,1956-05-26,Female,Employer Sponsored,2.85,Arlington,70,Breast Cancer Screening
+743,Veronica,Brooks,1978-05-21,Female,Medicare Advantage,2.85,Arlington,48,Colorectal Screening
+115,Abigail,Hudson,1955-05-27,Female,Medicare Advantage,2.84,Richmond,71,Annual Wellness Visit
+115,Abigail,Hudson,1955-05-27,Female,Medicare Advantage,2.84,Richmond,71,Colorectal Screening
+115,Abigail,Hudson,1955-05-27,Female,Medicare Advantage,2.84,Richmond,71,Breast Cancer Screening
+744,Tanya,Perez,1958-05-26,Female,Medicare Advantage,2.83,Henrico,68,Colorectal Screening
+541,John,Harrell,1941-05-30,Male,Medicare Advantage,2.83,Henrico,85,Annual Wellness Visit
+744,Tanya,Perez,1958-05-26,Female,Medicare Advantage,2.83,Henrico,68,Annual Wellness Visit
+199,Kevin,Lang,1943-05-30,Male,Employer Sponsored,2.83,Henrico,83,Annual Wellness Visit
+931,Richard,Mcdonald,1976-05-21,Male,Employer Sponsored,2.82,Arlington,50,Colorectal Screening
+843,Tabitha,Arnold,1944-05-29,Female,Employer Sponsored,2.81,Henrico,82,Annual Wellness Visit
+24,Dana,Chen,1953-05-27,Female,Employer Sponsored,2.81,Fairfax,73,Breast Cancer Screening
+24,Dana,Chen,1953-05-27,Female,Employer Sponsored,2.81,Fairfax,73,Annual Wellness Visit
+588,Thomas,Higgins,1950-05-28,Male,Medicare Advantage,2.81,Richmond,76,Annual Wellness Visit
+24,Dana,Chen,1953-05-27,Female,Employer Sponsored,2.81,Fairfax,73,Colorectal Screening
+951,Charles,Ayers,1977-05-21,Male,Medicare Advantage,2.8,Fairfax,49,Colorectal Screening
+118,Christopher,Garcia,1952-05-27,Male,Employer Sponsored,2.8,Henrico,74,Colorectal Screening
+345,Karen,Robinson,1943-05-30,Female,Medicare Advantage,2.8,Henrico,83,Annual Wellness Visit
+911,Curtis,Martinez,1957-05-26,Male,Medicare Advantage,2.79,Richmond,69,Colorectal Screening
+911,Curtis,Martinez,1957-05-26,Male,Medicare Advantage,2.79,Richmond,69,Annual Wellness Visit
+789,Billy,Guerrero,1951-05-28,Male,Medicare Advantage,2.78,Arlington,75,Annual Wellness Visit
+414,Adam,Thomas,1952-05-27,Male,Employer Sponsored,2.77,Henrico,74,Annual Wellness Visit
+847,Amanda,Miller,1942-05-30,Female,Medicare Advantage,2.77,Henrico,84,Annual Wellness Visit
+799,Alicia,Ryan,1956-05-26,Female,Employer Sponsored,2.77,Henrico,70,Annual Wellness Visit
+799,Alicia,Ryan,1956-05-26,Female,Employer Sponsored,2.77,Henrico,70,Breast Cancer Screening
+291,Bruce,Dean,1957-05-26,Male,Employer Sponsored,2.76,Arlington,69,Annual Wellness Visit
+936,Michael,Fleming,1968-05-23,Male,Employer Sponsored,2.74,Arlington,58,Colorectal Screening
+422,David,Mills,1944-05-29,Male,Medicare Advantage,2.74,Richmond,82,Annual Wellness Visit
+883,Melissa,Arias,1942-05-30,Female,Medicare Advantage,2.74,Arlington,84,Annual Wellness Visit
+998,Danielle,Meyer,1961-05-25,Female,Employer Sponsored,2.74,Fairfax,65,Annual Wellness Visit
+205,Martin,Castillo,1945-05-29,Male,Employer Sponsored,2.74,Fairfax,81,Annual Wellness Visit
+238,Gina,Best,1969-05-23,Female,Medicare Advantage,2.73,Fairfax,57,Breast Cancer Screening
+795,Elizabeth,Dickson,1957-05-26,Female,Medicare Advantage,2.73,Arlington,69,Annual Wellness Visit
+600,John,Reilly,1960-05-25,Male,Employer Sponsored,2.72,Henrico,66,Annual Wellness Visit
+483,Jonathan,Fisher,1951-05-28,Male,Medicare Advantage,2.72,Fairfax,75,Annual Wellness Visit
+600,John,Reilly,1960-05-25,Male,Employer Sponsored,2.72,Henrico,66,Colorectal Screening
+712,Paul,Bennett,1971-05-23,Male,Employer Sponsored,2.71,Henrico,55,Colorectal Screening
+125,Michelle,Brown,1969-05-23,Female,Medicare Advantage,2.7,Fairfax,57,Breast Cancer Screening
+202,Cynthia,Leblanc,1959-05-26,Female,Employer Sponsored,2.7,Richmond,67,Breast Cancer Screening
+984,Suzanne,Harrington,1947-05-29,Female,Employer Sponsored,2.7,Richmond,79,Annual Wellness Visit
+202,Cynthia,Leblanc,1959-05-26,Female,Employer Sponsored,2.7,Richmond,67,Annual Wellness Visit
+202,Cynthia,Leblanc,1959-05-26,Female,Employer Sponsored,2.7,Richmond,67,Colorectal Screening
+655,Linda,Liu,1972-05-22,Female,Employer Sponsored,2.7,Henrico,54,Breast Cancer Screening
+783,Christy,Hunter,1952-05-27,Female,Medicare Advantage,2.69,Henrico,74,Annual Wellness Visit
+8,Daniel,Marshall,1945-05-29,Male,Medicare Advantage,2.69,Richmond,81,Annual Wellness Visit
+583,Spencer,Wells,1952-05-27,Male,Employer Sponsored,2.69,Henrico,74,Annual Wellness Visit
+783,Christy,Hunter,1952-05-27,Female,Medicare Advantage,2.69,Henrico,74,Breast Cancer Screening
+560,Marilyn,Mejia,1971-05-23,Female,Employer Sponsored,2.68,Henrico,55,Breast Cancer Screening
+895,Joann,Shields,1961-05-25,Female,Employer Sponsored,2.68,Fairfax,65,Annual Wellness Visit
+842,Thomas,Mcdonald,1950-05-28,Male,Medicare Advantage,2.68,Richmond,76,Annual Wellness Visit
+322,David,Johnson,1945-05-29,Male,Medicare Advantage,2.68,Richmond,81,Annual Wellness Visit
+421,Jeffrey,Sutton,1953-05-27,Male,Employer Sponsored,2.67,Arlington,73,Annual Wellness Visit
+489,Tyler,Walter,1947-05-29,Male,Medicare Advantage,2.67,Henrico,79,Annual Wellness Visit
+859,Jessica,Simmons,1970-05-23,Female,Employer Sponsored,2.66,Arlington,56,Breast Cancer Screening
+378,Gregory,Fisher,1980-05-20,Male,Medicare Advantage,2.66,Arlington,46,Colorectal Screening
+960,Kevin,Smith,1979-05-21,Male,Medicare Advantage,2.65,Richmond,47,Colorectal Screening
+418,Hannah,Smith,1953-05-27,Female,Medicare Advantage,2.65,Arlington,73,Colorectal Screening
+779,Lori,Crane,1967-05-24,Female,Medicare Advantage,2.65,Richmond,59,Breast Cancer Screening
+418,Hannah,Smith,1953-05-27,Female,Medicare Advantage,2.65,Arlington,73,Annual Wellness Visit
+418,Hannah,Smith,1953-05-27,Female,Medicare Advantage,2.65,Arlington,73,Breast Cancer Screening
+774,Clayton,Hogan,1951-05-28,Male,Employer Sponsored,2.65,Richmond,75,Annual Wellness Visit
+704,Brandi,Hodges,1980-05-20,Female,Employer Sponsored,2.64,Fairfax,46,Colorectal Screening
+338,Gabriel,Roman,1977-05-21,Male,Medicare Advantage,2.64,Henrico,49,Colorectal Screening
+260,Edgar,Waters,1960-05-25,Male,Employer Sponsored,2.63,Arlington,66,Annual Wellness Visit
+803,Chelsea,Ferguson,1975-05-22,Female,Employer Sponsored,2.63,Henrico,51,Breast Cancer Screening
+296,Johnny,Wilson,1961-05-25,Male,Medicare Advantage,2.63,Richmond,65,Annual Wellness Visit
+935,Aaron,Bridges,1955-05-27,Male,Employer Sponsored,2.63,Arlington,71,Annual Wellness Visit
+296,Johnny,Wilson,1961-05-25,Male,Medicare Advantage,2.63,Richmond,65,Colorectal Screening
+102,Paul,Jarvis,1952-05-27,Male,Medicare Advantage,2.62,Richmond,74,Annual Wellness Visit
+13,Megan,Cunningham,1954-05-27,Female,Employer Sponsored,2.61,Richmond,72,Breast Cancer Screening
+776,Antonio,Black,1961-05-25,Male,Employer Sponsored,2.61,Richmond,65,Annual Wellness Visit
+561,Thomas,Hanson,1955-05-27,Male,Medicare Advantage,2.61,Richmond,71,Annual Wellness Visit
+469,Amy,Shannon,1956-05-26,Female,Medicare Advantage,2.61,Richmond,70,Breast Cancer Screening
+469,Amy,Shannon,1956-05-26,Female,Medicare Advantage,2.61,Richmond,70,Colorectal Screening
+469,Amy,Shannon,1956-05-26,Female,Medicare Advantage,2.61,Richmond,70,Annual Wellness Visit
+334,Rachel,Carter,1980-05-20,Female,Employer Sponsored,2.61,Henrico,46,Colorectal Screening
+976,Carrie,Nelson,1974-05-22,Female,Medicare Advantage,2.6,Richmond,52,Colorectal Screening
+423,Marie,Bryant,1969-05-23,Female,Employer Sponsored,2.6,Richmond,57,Breast Cancer Screening
+506,Michele,Meyer,1946-05-29,Female,Employer Sponsored,2.6,Richmond,80,Annual Wellness Visit
+5,Brittany,Flores,1948-05-28,Female,Medicare Advantage,2.59,Fairfax,78,Annual Wellness Visit
+439,Clarence,Chavez,1946-05-29,Male,Employer Sponsored,2.59,Arlington,80,Annual Wellness Visit
+796,Sabrina,Bell,1964-05-24,Female,Employer Sponsored,2.58,Richmond,62,Colorectal Screening
+550,Jeremy,Smith,1964-05-24,Male,Employer Sponsored,2.58,Fairfax,62,Colorectal Screening
+410,Cheryl,Lin,1980-05-20,Female,Employer Sponsored,2.58,Richmond,46,Colorectal Screening
+686,Sheri,Villanueva,1971-05-23,Female,Employer Sponsored,2.57,Richmond,55,Colorectal Screening
+387,Tim,Chavez,1951-05-28,Male,Medicare Advantage,2.57,Arlington,75,Colorectal Screening
+195,Robert,Zavala,1956-05-26,Male,Employer Sponsored,2.57,Arlington,70,Colorectal Screening
+195,Robert,Zavala,1956-05-26,Male,Employer Sponsored,2.57,Arlington,70,Annual Wellness Visit
+387,Tim,Chavez,1951-05-28,Male,Medicare Advantage,2.57,Arlington,75,Annual Wellness Visit
+713,Jeremy,Waller,1950-05-28,Male,Medicare Advantage,2.56,Arlington,76,Annual Wellness Visit
+15,Michael,Chandler,1956-05-26,Male,Medicare Advantage,2.55,Richmond,70,Annual Wellness Visit
+269,Joseph,Barnes,1948-05-28,Male,Employer Sponsored,2.54,Fairfax,78,Annual Wellness Visit
+968,Mary,Smith,1966-05-24,Female,Employer Sponsored,2.54,Fairfax,60,Breast Cancer Screening
+279,Eric,Anderson,1947-05-29,Male,Employer Sponsored,2.54,Richmond,79,Annual Wellness Visit
+86,Mark,Smith,1954-05-27,Male,Employer Sponsored,2.53,Henrico,72,Colorectal Screening
+701,Brenda,Sims,1955-05-27,Female,Medicare Advantage,2.53,Fairfax,71,Annual Wellness Visit
+701,Brenda,Sims,1955-05-27,Female,Medicare Advantage,2.53,Fairfax,71,Breast Cancer Screening
+86,Mark,Smith,1954-05-27,Male,Employer Sponsored,2.53,Henrico,72,Annual Wellness Visit
+526,Steven,Burton,1957-05-26,Male,Medicare Advantage,2.52,Fairfax,69,Annual Wellness Visit
+40,Rodney,Phillips,1941-05-30,Male,Medicare Advantage,2.52,Richmond,85,Annual Wellness Visit
+214,Sean,Marshall,1967-05-24,Male,Employer Sponsored,2.51,Arlington,59,Colorectal Screening
+833,Marvin,Cole,1974-05-22,Male,Medicare Advantage,2.51,Henrico,52,Colorectal Screening
+337,Catherine,Garrison,1945-05-29,Female,Employer Sponsored,2.5,Richmond,81,Annual Wellness Visit
+738,Valerie,Mason,1958-05-26,Female,Medicare Advantage,2.49,Richmond,68,Annual Wellness Visit
+83,Benjamin,Reyes,1957-05-26,Male,Employer Sponsored,2.49,Richmond,69,Annual Wellness Visit
+738,Valerie,Mason,1958-05-26,Female,Medicare Advantage,2.49,Richmond,68,Breast Cancer Screening
+753,Amy,Patterson,1942-05-30,Female,Medicare Advantage,2.49,Henrico,84,Annual Wellness Visit
+664,Seth,Burke,1952-05-27,Male,Employer Sponsored,2.48,Fairfax,74,Annual Wellness Visit
+710,Cheryl,Ruiz,1945-05-29,Female,Employer Sponsored,2.48,Henrico,81,Annual Wellness Visit
+167,Clinton,Carrillo,1941-05-30,Male,Medicare Advantage,2.47,Arlington,85,Annual Wellness Visit
+507,Christine,Harris,1947-05-29,Female,Medicare Advantage,2.47,Fairfax,79,Annual Wellness Visit
+391,Stacey,Nelson,1974-05-22,Female,Employer Sponsored,2.47,Arlington,52,Colorectal Screening
+391,Stacey,Nelson,1974-05-22,Female,Employer Sponsored,2.47,Arlington,52,Breast Cancer Screening
+716,Lindsay,Pearson,1953-05-27,Female,Employer Sponsored,2.46,Henrico,73,Annual Wellness Visit
+467,Michael,Martinez,1953-05-27,Male,Medicare Advantage,2.46,Richmond,73,Annual Wellness Visit
+684,Anthony,Smith,1980-05-20,Male,Employer Sponsored,2.46,Arlington,46,Colorectal Screening
+716,Lindsay,Pearson,1953-05-27,Female,Employer Sponsored,2.46,Henrico,73,Breast Cancer Screening
+716,Lindsay,Pearson,1953-05-27,Female,Employer Sponsored,2.46,Henrico,73,Colorectal Screening
+185,Eugene,Raymond,1957-05-26,Male,Employer Sponsored,2.45,Fairfax,69,Annual Wellness Visit
+332,Joshua,James,1971-05-23,Male,Employer Sponsored,2.45,Henrico,55,Colorectal Screening
+284,Jessica,Rivers,1954-05-27,Female,Medicare Advantage,2.44,Arlington,72,Breast Cancer Screening
+517,Amanda,Lee,1942-05-30,Female,Employer Sponsored,2.44,Henrico,84,Annual Wellness Visit
+284,Jessica,Rivers,1954-05-27,Female,Medicare Advantage,2.44,Arlington,72,Annual Wellness Visit
+397,Charles,Wright,1976-05-21,Male,Employer Sponsored,2.44,Richmond,50,Colorectal Screening
+354,Kevin,Johnson,1956-05-26,Male,Employer Sponsored,2.43,Fairfax,70,Colorectal Screening
+354,Kevin,Johnson,1956-05-26,Male,Employer Sponsored,2.43,Fairfax,70,Annual Wellness Visit
+987,Patrick,Ortiz,1976-05-21,Male,Employer Sponsored,2.42,Richmond,50,Colorectal Screening
+603,Erika,Ray,1962-05-25,Female,Employer Sponsored,2.41,Richmond,64,Breast Cancer Screening
+946,Michele,King,1959-05-26,Female,Employer Sponsored,2.39,Arlington,67,Annual Wellness Visit
+99,Richard,Adams,1947-05-29,Male,Employer Sponsored,2.38,Fairfax,79,Annual Wellness Visit
+353,Rachel,Sellers,1947-05-29,Female,Employer Sponsored,2.35,Richmond,79,Annual Wellness Visit
+341,John,Hawkins,1945-05-29,Male,Medicare Advantage,2.34,Richmond,81,Annual Wellness Visit
+385,Jesse,Richards,1953-05-27,Male,Employer Sponsored,2.33,Henrico,73,Annual Wellness Visit
+149,John,Campbell,1960-05-25,Male,Medicare Advantage,2.33,Richmond,66,Colorectal Screening
+823,Brian,Johnson,1946-05-29,Male,Employer Sponsored,2.32,Fairfax,80,Annual Wellness Visit
+147,Amanda,Brock,1961-05-25,Female,Employer Sponsored,2.32,Henrico,65,Colorectal Screening
+662,Dana,Ramos,1969-05-23,Female,Medicare Advantage,2.32,Arlington,57,Breast Cancer Screening
+147,Amanda,Brock,1961-05-25,Female,Employer Sponsored,2.32,Henrico,65,Annual Wellness Visit
+662,Dana,Ramos,1969-05-23,Female,Medicare Advantage,2.32,Arlington,57,Colorectal Screening
+147,Amanda,Brock,1961-05-25,Female,Employer Sponsored,2.32,Henrico,65,Breast Cancer Screening
+690,Daniel,Bryant,1979-05-21,Male,Employer Sponsored,2.31,Richmond,47,Colorectal Screening
+159,James,Murray,1949-05-28,Male,Employer Sponsored,2.31,Richmond,77,Annual Wellness Visit
+866,Judith,Harvey,1943-05-30,Female,Employer Sponsored,2.3,Henrico,83,Annual Wellness Visit
+365,Rachel,Brown,1978-05-21,Female,Employer Sponsored,2.29,Arlington,48,Colorectal Screening
+22,Jennifer,Hardy,1946-05-29,Female,Employer Sponsored,2.29,Arlington,80,Annual Wellness Visit
+375,Brianna,Scott,1971-05-23,Female,Employer Sponsored,2.28,Arlington,55,Colorectal Screening
+375,Brianna,Scott,1971-05-23,Female,Employer Sponsored,2.28,Arlington,55,Breast Cancer Screening
+2,Tammy,Schmidt,1953-05-27,Female,Medicare Advantage,2.27,Richmond,73,Annual Wellness Visit
+736,Sonya,Hawkins,1950-05-28,Female,Medicare Advantage,2.27,Henrico,76,Annual Wellness Visit
+271,Tony,Sanchez,1946-05-29,Male,Employer Sponsored,2.27,Fairfax,80,Annual Wellness Visit
+2,Tammy,Schmidt,1953-05-27,Female,Medicare Advantage,2.27,Richmond,73,Breast Cancer Screening
+2,Tammy,Schmidt,1953-05-27,Female,Medicare Advantage,2.27,Richmond,73,Colorectal Screening
+698,Victoria,Calhoun,1941-05-30,Female,Employer Sponsored,2.26,Fairfax,85,Annual Wellness Visit
+67,Jennifer,Cox,1943-05-30,Female,Employer Sponsored,2.25,Henrico,83,Annual Wellness Visit
+364,Zachary,Huber,1981-05-20,Male,Medicare Advantage,2.25,Richmond,45,Colorectal Screening
+505,Valerie,Dougherty,1968-05-23,Female,Employer Sponsored,2.25,Arlington,58,Breast Cancer Screening
+145,Christopher,Porter,1965-05-24,Male,Medicare Advantage,2.23,Richmond,61,Colorectal Screening
+725,Katherine,Grant,1948-05-28,Female,Medicare Advantage,2.23,Henrico,78,Annual Wellness Visit
+636,Kimberly,Jones,1948-05-28,Female,Medicare Advantage,2.23,Arlington,78,Annual Wellness Visit
+675,Timothy,Scott,1962-05-25,Male,Employer Sponsored,2.22,Henrico,64,Colorectal Screening
+596,Robert,Bass,1944-05-29,Male,Medicare Advantage,2.21,Richmond,82,Annual Wellness Visit
+475,Anne,Carter,1960-05-25,Female,Medicare Advantage,2.2,Arlington,66,Colorectal Screening
+475,Anne,Carter,1960-05-25,Female,Medicare Advantage,2.2,Arlington,66,Annual Wellness Visit
+536,Jessica,Murray,1947-05-29,Female,Employer Sponsored,2.2,Arlington,79,Annual Wellness Visit
+475,Anne,Carter,1960-05-25,Female,Medicare Advantage,2.2,Arlington,66,Breast Cancer Screening
+508,Robin,Manning,1955-05-27,Female,Medicare Advantage,2.19,Arlington,71,Colorectal Screening
+383,Melanie,Hughes,1963-05-25,Female,Medicare Advantage,2.18,Arlington,63,Colorectal Screening
+980,Matthew,Rivas,1951-05-28,Male,Employer Sponsored,2.18,Arlington,75,Annual Wellness Visit
+131,Terry,Steele,1958-05-26,Male,Employer Sponsored,2.17,Henrico,68,Colorectal Screening
+131,Terry,Steele,1958-05-26,Male,Employer Sponsored,2.17,Henrico,68,Annual Wellness Visit
+674,Kenneth,Sellers,1948-05-28,Male,Medicare Advantage,2.16,Arlington,78,Annual Wellness Visit
+85,Brian,Torres,1952-05-27,Male,Employer Sponsored,2.16,Henrico,74,Annual Wellness Visit
+518,Julie,Camacho,1963-05-25,Female,Medicare Advantage,2.16,Fairfax,63,Colorectal Screening
+65,Amy,Carpenter,1949-05-28,Female,Employer Sponsored,2.16,Arlington,77,Annual Wellness Visit
+945,Thomas,Moore,1967-05-24,Male,Employer Sponsored,2.15,Henrico,59,Colorectal Screening
+538,Erica,Vance,1948-05-28,Female,Employer Sponsored,2.14,Arlington,78,Annual Wellness Visit
+323,Joshua,Snyder,1958-05-26,Male,Medicare Advantage,2.14,Fairfax,68,Colorectal Screening
+952,Gwendolyn,Olsen,1946-05-29,Female,Medicare Advantage,2.14,Henrico,80,Annual Wellness Visit
+981,Maria,Rivas,1960-05-25,Female,Medicare Advantage,2.13,Fairfax,66,Annual Wellness Visit
+844,Vickie,Collier,1961-05-25,Female,Employer Sponsored,2.13,Arlington,65,Annual Wellness Visit
+981,Maria,Rivas,1960-05-25,Female,Medicare Advantage,2.13,Fairfax,66,Colorectal Screening
+844,Vickie,Collier,1961-05-25,Female,Employer Sponsored,2.13,Arlington,65,Breast Cancer Screening
+103,Colin,Lynch,1970-05-23,Male,Employer Sponsored,2.13,Arlington,56,Colorectal Screening
+106,Wesley,Williams,1942-05-30,Male,Employer Sponsored,2.11,Henrico,84,Annual Wellness Visit
+821,Michael,Olson,1953-05-27,Male,Medicare Advantage,2.1,Richmond,73,Annual Wellness Visit
+634,Kendra,Hoffman,1945-05-29,Female,Employer Sponsored,2.09,Henrico,81,Annual Wellness Visit
+23,Aaron,Garcia,1958-05-26,Male,Employer Sponsored,2.09,Richmond,68,Annual Wellness Visit
+415,Paige,Chapman,1953-05-27,Female,Medicare Advantage,2.08,Fairfax,73,Annual Wellness Visit
+415,Paige,Chapman,1953-05-27,Female,Medicare Advantage,2.08,Fairfax,73,Breast Cancer Screening
+681,Fernando,Jones,1942-05-30,Male,Employer Sponsored,2.06,Richmond,84,Annual Wellness Visit
+877,Jessica,Fuller,1960-05-25,Female,Medicare Advantage,2.06,Arlington,66,Breast Cancer Screening
+877,Jessica,Fuller,1960-05-25,Female,Medicare Advantage,2.06,Arlington,66,Annual Wellness Visit
+514,Bruce,Lee,1946-05-29,Male,Medicare Advantage,2.06,Fairfax,80,Annual Wellness Visit
+955,Richard,Martin,1956-05-26,Male,Medicare Advantage,2.05,Fairfax,70,Annual Wellness Visit
+854,Thomas,Taylor,1959-05-26,Male,Medicare Advantage,2.05,Arlington,67,Annual Wellness Visit
+854,Thomas,Taylor,1959-05-26,Male,Medicare Advantage,2.05,Arlington,67,Colorectal Screening
+894,Robert,Gonzales,1959-05-26,Male,Medicare Advantage,2.05,Richmond,67,Annual Wellness Visit
+450,Robert,Russell,1980-05-20,Male,Employer Sponsored,2.04,Arlington,46,Colorectal Screening
+227,Francisco,Gates,1968-05-23,Male,Employer Sponsored,2.04,Richmond,58,Colorectal Screening
+26,Nathan,Fernandez,1964-05-24,Male,Medicare Advantage,2.02,Richmond,62,Colorectal Screening
+50,Heather,Russo,1959-05-26,Female,Employer Sponsored,2.01,Henrico,67,Annual Wellness Visit
+898,Crystal,Jones,1961-05-25,Female,Medicare Advantage,2.01,Fairfax,65,Annual Wellness Visit
+898,Crystal,Jones,1961-05-25,Female,Medicare Advantage,2.01,Fairfax,65,Colorectal Screening
+898,Crystal,Jones,1961-05-25,Female,Medicare Advantage,2.01,Fairfax,65,Breast Cancer Screening
+784,Kristina,Benjamin,1972-05-22,Female,Employer Sponsored,2.01,Arlington,54,Colorectal Screening
+784,Kristina,Benjamin,1972-05-22,Female,Employer Sponsored,2.01,Arlington,54,Breast Cancer Screening
+275,Christopher,Boyd,1958-05-26,Male,Employer Sponsored,2.0,Richmond,68,Annual Wellness Visit
+907,Tonya,Taylor,1949-05-28,Female,Medicare Advantage,2.0,Henrico,77,Annual Wellness Visit
+362,Elizabeth,Henderson,1948-05-28,Female,Medicare Advantage,1.99,Arlington,78,Annual Wellness Visit
+590,Stanley,Roberts,1951-05-28,Male,Medicare Advantage,1.99,Fairfax,75,Annual Wellness Visit
+590,Stanley,Roberts,1951-05-28,Male,Medicare Advantage,1.99,Fairfax,75,Colorectal Screening
+553,Michelle,Fernandez,1969-05-23,Female,Medicare Advantage,1.98,Fairfax,57,Breast Cancer Screening
+553,Michelle,Fernandez,1969-05-23,Female,Medicare Advantage,1.98,Fairfax,57,Colorectal Screening
+548,Amy,Williams,1948-05-28,Female,Employer Sponsored,1.97,Fairfax,78,Annual Wellness Visit
+230,Larry,Bryant,1969-05-23,Male,Medicare Advantage,1.97,Arlington,57,Colorectal Screening
+28,Caitlin,Rosario,1958-05-26,Female,Employer Sponsored,1.97,Richmond,68,Annual Wellness Visit
+497,Chad,Glenn,1976-05-21,Male,Medicare Advantage,1.94,Henrico,50,Colorectal Screening
+914,Anna,Rocha,1963-05-25,Female,Employer Sponsored,1.93,Richmond,63,Breast Cancer Screening
+396,Stephen,Knight,1955-05-27,Male,Employer Sponsored,1.93,Henrico,71,Colorectal Screening
+396,Stephen,Knight,1955-05-27,Male,Employer Sponsored,1.93,Henrico,71,Annual Wellness Visit
+564,Dennis,Garcia,1952-05-27,Male,Medicare Advantage,1.93,Henrico,74,Colorectal Screening
+564,Dennis,Garcia,1952-05-27,Male,Medicare Advantage,1.93,Henrico,74,Annual Wellness Visit
+740,Joanna,Murphy,1961-05-25,Female,Employer Sponsored,1.92,Henrico,65,Colorectal Screening
+740,Joanna,Murphy,1961-05-25,Female,Employer Sponsored,1.92,Henrico,65,Annual Wellness Visit
+886,Regina,Lawrence,1944-05-29,Female,Medicare Advantage,1.92,Arlington,82,Annual Wellness Visit
+135,Daniel,Harvey,1954-05-27,Male,Employer Sponsored,1.92,Fairfax,72,Colorectal Screening
+135,Daniel,Harvey,1954-05-27,Male,Employer Sponsored,1.92,Fairfax,72,Annual Wellness Visit
+161,Peggy,Bass,1948-05-28,Female,Medicare Advantage,1.91,Arlington,78,Annual Wellness Visit
+669,Sarah,Larson,1977-05-21,Female,Employer Sponsored,1.91,Fairfax,49,Colorectal Screening
+293,Jessica,Hayes,1973-05-22,Female,Employer Sponsored,1.89,Fairfax,53,Colorectal Screening
+88,Paul,Elliott,1946-05-29,Male,Employer Sponsored,1.89,Arlington,80,Annual Wellness Visit
+614,Sheena,Torres,1968-05-23,Female,Employer Sponsored,1.89,Richmond,58,Breast Cancer Screening
+293,Jessica,Hayes,1973-05-22,Female,Employer Sponsored,1.89,Fairfax,53,Breast Cancer Screening
+932,Patricia,Santana,1972-05-22,Female,Employer Sponsored,1.89,Henrico,54,Breast Cancer Screening
+607,Adam,Jackson,1952-05-27,Male,Employer Sponsored,1.88,Richmond,74,Annual Wellness Visit
+705,Steven,Glenn,1972-05-22,Male,Employer Sponsored,1.88,Henrico,54,Colorectal Screening
+172,Erica,Baldwin,1943-05-30,Female,Medicare Advantage,1.88,Richmond,83,Annual Wellness Visit
+420,Erin,Mendez,1964-05-24,Female,Employer Sponsored,1.87,Richmond,62,Breast Cancer Screening
+749,Douglas,Fox,1955-05-27,Male,Medicare Advantage,1.87,Fairfax,71,Annual Wellness Visit
+55,Caitlin,Black,1954-05-27,Female,Employer Sponsored,1.87,Richmond,72,Colorectal Screening
+208,Erin,Anderson,1980-05-20,Female,Medicare Advantage,1.86,Fairfax,46,Colorectal Screening
+272,Samantha,Hodge,1977-05-21,Female,Employer Sponsored,1.86,Richmond,49,Colorectal Screening
+274,Brian,Harris,1967-05-24,Male,Medicare Advantage,1.85,Henrico,59,Colorectal Screening
+810,Melissa,Fuller,1954-05-27,Female,Employer Sponsored,1.84,Henrico,72,Annual Wellness Visit
+133,Steven,Lawrence,1955-05-27,Male,Employer Sponsored,1.84,Richmond,71,Annual Wellness Visit
+33,Tristan,Lopez,1971-05-23,Male,Employer Sponsored,1.81,Arlington,55,Colorectal Screening
+158,Andrew,Martinez,1979-05-21,Male,Employer Sponsored,1.81,Richmond,47,Colorectal Screening
+80,Kenneth,Farmer,1950-05-28,Male,Employer Sponsored,1.81,Richmond,76,Annual Wellness Visit
+609,Jade,Lopez,1959-05-26,Female,Medicare Advantage,1.8,Henrico,67,Breast Cancer Screening
+609,Jade,Lopez,1959-05-26,Female,Medicare Advantage,1.8,Henrico,67,Annual Wellness Visit
+609,Jade,Lopez,1959-05-26,Female,Medicare Advantage,1.8,Henrico,67,Colorectal Screening
+874,Robert,Taylor,1959-05-26,Male,Medicare Advantage,1.78,Fairfax,67,Colorectal Screening
+874,Robert,Taylor,1959-05-26,Male,Medicare Advantage,1.78,Fairfax,67,Annual Wellness Visit
+933,Susan,Gomez,1956-05-26,Female,Employer Sponsored,1.77,Arlington,70,Annual Wellness Visit
+742,Robert,Cohen,1957-05-26,Male,Medicare Advantage,1.76,Richmond,69,Annual Wellness Visit
+742,Robert,Cohen,1957-05-26,Male,Medicare Advantage,1.76,Richmond,69,Colorectal Screening
+53,Erica,Martinez,1957-05-26,Female,Medicare Advantage,1.76,Fairfax,69,Annual Wellness Visit
+528,Stephanie,Bender,1964-05-24,Female,Employer Sponsored,1.75,Henrico,62,Breast Cancer Screening
+739,Shannon,Blake,1952-05-27,Female,Medicare Advantage,1.75,Arlington,74,Colorectal Screening
+528,Stephanie,Bender,1964-05-24,Female,Employer Sponsored,1.75,Henrico,62,Colorectal Screening
+533,Kent,Bauer,1953-05-27,Male,Employer Sponsored,1.75,Arlington,73,Colorectal Screening
+739,Shannon,Blake,1952-05-27,Female,Medicare Advantage,1.75,Arlington,74,Annual Wellness Visit
+533,Kent,Bauer,1953-05-27,Male,Employer Sponsored,1.75,Arlington,73,Annual Wellness Visit
+452,Brittany,Schroeder,1973-05-22,Female,Employer Sponsored,1.74,Henrico,53,Breast Cancer Screening
+929,Patrick,Hebert,1974-05-22,Male,Medicare Advantage,1.74,Fairfax,52,Colorectal Screening
+903,Christina,Cortez,1945-05-29,Female,Employer Sponsored,1.74,Fairfax,81,Annual Wellness Visit
+956,Michael,Burns,1955-05-27,Male,Employer Sponsored,1.74,Richmond,71,Annual Wellness Visit
+878,Amanda,Vasquez,1952-05-27,Female,Employer Sponsored,1.73,Richmond,74,Colorectal Screening
+878,Amanda,Vasquez,1952-05-27,Female,Employer Sponsored,1.73,Richmond,74,Annual Wellness Visit
+52,Margaret,Buchanan,1953-05-27,Female,Medicare Advantage,1.71,Henrico,73,Annual Wellness Visit
+52,Margaret,Buchanan,1953-05-27,Female,Medicare Advantage,1.71,Henrico,73,Breast Cancer Screening
+926,Seth,Sims,1961-05-25,Male,Medicare Advantage,1.7,Henrico,65,Colorectal Screening
+926,Seth,Sims,1961-05-25,Male,Medicare Advantage,1.7,Henrico,65,Annual Wellness Visit
+235,Nathaniel,Carter,1944-05-29,Male,Employer Sponsored,1.7,Richmond,82,Annual Wellness Visit
+520,Jessica,Jones,1956-05-26,Female,Employer Sponsored,1.69,Henrico,70,Colorectal Screening
+448,Steven,Williams,1981-05-20,Male,Medicare Advantage,1.69,Henrico,45,Colorectal Screening
+299,Jennifer,Herrera,1970-05-23,Female,Medicare Advantage,1.69,Fairfax,56,Breast Cancer Screening
+520,Jessica,Jones,1956-05-26,Female,Employer Sponsored,1.69,Henrico,70,Breast Cancer Screening
+520,Jessica,Jones,1956-05-26,Female,Employer Sponsored,1.69,Henrico,70,Annual Wellness Visit
+18,Stacey,Pierce,1955-05-27,Female,Employer Sponsored,1.69,Arlington,71,Annual Wellness Visit
+846,Diane,Mclaughlin,1967-05-24,Female,Medicare Advantage,1.69,Richmond,59,Colorectal Screening
+846,Diane,Mclaughlin,1967-05-24,Female,Medicare Advantage,1.69,Richmond,59,Breast Cancer Screening
+953,Jason,Fischer,1961-05-25,Male,Employer Sponsored,1.68,Henrico,65,Colorectal Screening
+953,Jason,Fischer,1961-05-25,Male,Employer Sponsored,1.68,Henrico,65,Annual Wellness Visit
+676,Jason,White,1977-05-21,Male,Medicare Advantage,1.68,Richmond,49,Colorectal Screening
+632,Austin,Rowland,1960-05-25,Male,Employer Sponsored,1.67,Henrico,66,Annual Wellness Visit
+521,Jonathan,Waters,1959-05-26,Male,Employer Sponsored,1.67,Henrico,67,Annual Wellness Visit
+521,Jonathan,Waters,1959-05-26,Male,Employer Sponsored,1.67,Henrico,67,Colorectal Screening
+582,Jennifer,Dougherty,1962-05-25,Female,Employer Sponsored,1.67,Richmond,64,Colorectal Screening
+851,Jessica,Bernard,1963-05-25,Female,Employer Sponsored,1.66,Arlington,63,Breast Cancer Screening
+175,Patrick,Williams,1961-05-25,Male,Medicare Advantage,1.65,Henrico,65,Colorectal Screening
+175,Patrick,Williams,1961-05-25,Male,Medicare Advantage,1.65,Henrico,65,Annual Wellness Visit
+966,Brittany,Ferguson,1947-05-29,Female,Medicare Advantage,1.65,Arlington,79,Annual Wellness Visit
+811,Savannah,Banks,1953-05-27,Female,Employer Sponsored,1.64,Richmond,73,Colorectal Screening
+648,Jennifer,Baxter,1954-05-27,Female,Medicare Advantage,1.64,Fairfax,72,Annual Wellness Visit
+811,Savannah,Banks,1953-05-27,Female,Employer Sponsored,1.64,Richmond,73,Annual Wellness Visit
+648,Jennifer,Baxter,1954-05-27,Female,Medicare Advantage,1.64,Fairfax,72,Breast Cancer Screening
+811,Savannah,Banks,1953-05-27,Female,Employer Sponsored,1.64,Richmond,73,Breast Cancer Screening
+426,Alexander,Kaiser,1941-05-30,Male,Employer Sponsored,1.63,Henrico,85,Annual Wellness Visit
+737,Elizabeth,Taylor,1973-05-22,Female,Medicare Advantage,1.63,Fairfax,53,Colorectal Screening
+248,Jessica,Hayden,1949-05-28,Female,Medicare Advantage,1.63,Arlington,77,Annual Wellness Visit
+853,Dustin,Vasquez,1959-05-26,Male,Medicare Advantage,1.63,Arlington,67,Colorectal Screening
+300,April,Buchanan,1972-05-22,Female,Medicare Advantage,1.62,Richmond,54,Breast Cancer Screening
+300,April,Buchanan,1972-05-22,Female,Medicare Advantage,1.62,Richmond,54,Colorectal Screening
+425,April,Shaw,1947-05-29,Female,Employer Sponsored,1.62,Arlington,79,Annual Wellness Visit
+376,Jared,Peterson,1966-05-24,Male,Medicare Advantage,1.61,Richmond,60,Colorectal Screening
+412,Melissa,Walker,1956-05-26,Female,Employer Sponsored,1.6,Henrico,70,Colorectal Screening
+412,Melissa,Walker,1956-05-26,Female,Employer Sponsored,1.6,Henrico,70,Annual Wellness Visit
+412,Melissa,Walker,1956-05-26,Female,Employer Sponsored,1.6,Henrico,70,Breast Cancer Screening
+920,Thomas,Thompson,1952-05-27,Male,Employer Sponsored,1.6,Arlington,74,Annual Wellness Visit
+20,Austin,Silva,1959-05-26,Male,Employer Sponsored,1.59,Henrico,67,Annual Wellness Visit
+82,Caitlin,Esparza,1963-05-25,Female,Medicare Advantage,1.59,Richmond,63,Breast Cancer Screening
+751,Barbara,Gonzalez,1942-05-30,Female,Employer Sponsored,1.58,Fairfax,84,Annual Wellness Visit
+993,Aaron,Watkins,1945-05-29,Male,Medicare Advantage,1.58,Arlington,81,Annual Wellness Visit
+822,Sarah,Williams,1952-05-27,Female,Medicare Advantage,1.57,Richmond,74,Annual Wellness Visit
+822,Sarah,Williams,1952-05-27,Female,Medicare Advantage,1.57,Richmond,74,Breast Cancer Screening
+822,Sarah,Williams,1952-05-27,Female,Medicare Advantage,1.57,Richmond,74,Colorectal Screening
+136,Jimmy,Welch,1949-05-28,Male,Employer Sponsored,1.56,Arlington,77,Annual Wellness Visit
+893,Dylan,Young,1947-05-29,Male,Employer Sponsored,1.56,Arlington,79,Annual Wellness Visit
+855,Jennifer,Knapp,1963-05-25,Female,Employer Sponsored,1.56,Fairfax,63,Breast Cancer Screening
+77,Amanda,Barry,1947-05-29,Female,Employer Sponsored,1.55,Arlington,79,Annual Wellness Visit
+656,Michael,Park,1965-05-24,Male,Employer Sponsored,1.55,Arlington,61,Colorectal Screening
+75,Kelly,Bailey,1944-05-29,Female,Employer Sponsored,1.55,Henrico,82,Annual Wellness Visit
+122,Alicia,Harper,1946-05-29,Female,Medicare Advantage,1.54,Arlington,80,Annual Wellness Visit
+178,Maureen,Wright,1968-05-23,Female,Employer Sponsored,1.54,Arlington,58,Colorectal Screening
+178,Maureen,Wright,1968-05-23,Female,Employer Sponsored,1.54,Arlington,58,Breast Cancer Screening
+513,Jessica,George,1943-05-30,Female,Medicare Advantage,1.54,Fairfax,83,Annual Wellness Visit
+733,Kevin,Villarreal,1953-05-27,Male,Medicare Advantage,1.53,Arlington,73,Annual Wellness Visit
+733,Kevin,Villarreal,1953-05-27,Male,Medicare Advantage,1.53,Arlington,73,Colorectal Screening
+511,Robert,Mckinney,1947-05-29,Male,Medicare Advantage,1.53,Richmond,79,Annual Wellness Visit
+176,Sarah,Evans,1979-05-21,Female,Employer Sponsored,1.52,Fairfax,47,Colorectal Screening
+661,Laura,Mcdowell,1961-05-25,Female,Medicare Advantage,1.51,Arlington,65,Annual Wellness Visit
+164,Elizabeth,Tran,1942-05-30,Female,Medicare Advantage,1.49,Arlington,84,Annual Wellness Visit
+808,Jessica,Lawrence,1954-05-27,Female,Employer Sponsored,1.49,Fairfax,72,Breast Cancer Screening
+808,Jessica,Lawrence,1954-05-27,Female,Employer Sponsored,1.49,Fairfax,72,Annual Wellness Visit
+917,Daniel,Jones,1959-05-26,Male,Medicare Advantage,1.48,Fairfax,67,Annual Wellness Visit
+374,Stephanie,Alvarez,1958-05-26,Female,Medicare Advantage,1.48,Fairfax,68,Annual Wellness Visit
+985,Michael,Smith,1947-05-29,Male,Medicare Advantage,1.46,Richmond,79,Annual Wellness Visit
+977,Carolyn,Thompson,1965-05-24,Female,Medicare Advantage,1.45,Fairfax,61,Breast Cancer Screening
+977,Carolyn,Thompson,1965-05-24,Female,Medicare Advantage,1.45,Fairfax,61,Colorectal Screening
+201,Anne,Walsh,1956-05-26,Female,Medicare Advantage,1.43,Arlington,70,Annual Wellness Visit
+585,Robert,Wilson,1957-05-26,Male,Medicare Advantage,1.43,Henrico,69,Annual Wellness Visit
+201,Anne,Walsh,1956-05-26,Female,Medicare Advantage,1.43,Arlington,70,Breast Cancer Screening
+201,Anne,Walsh,1956-05-26,Female,Medicare Advantage,1.43,Arlington,70,Colorectal Screening
+292,Tracy,Clark,1962-05-25,Female,Medicare Advantage,1.43,Arlington,64,Breast Cancer Screening
+87,Jeffrey,Taylor,1971-05-23,Male,Medicare Advantage,1.41,Henrico,55,Colorectal Screening
+441,Sherri,Lutz,1942-05-30,Female,Medicare Advantage,1.4,Henrico,84,Annual Wellness Visit
+707,Daniel,Singh,1961-05-25,Male,Employer Sponsored,1.4,Richmond,65,Annual Wellness Visit
+741,Lisa,Dunn,1952-05-27,Female,Medicare Advantage,1.4,Richmond,74,Annual Wellness Visit
+745,Richard,Johnson,1951-05-28,Male,Employer Sponsored,1.39,Richmond,75,Colorectal Screening
+539,Jasmine,Williamson,1949-05-28,Female,Medicare Advantage,1.39,Richmond,77,Annual Wellness Visit
+148,David,Smith,1968-05-23,Male,Employer Sponsored,1.39,Arlington,58,Colorectal Screening
+826,Bradley,Clark,1956-05-26,Male,Medicare Advantage,1.39,Fairfax,70,Annual Wellness Visit
+826,Bradley,Clark,1956-05-26,Male,Medicare Advantage,1.39,Fairfax,70,Colorectal Screening
+745,Richard,Johnson,1951-05-28,Male,Employer Sponsored,1.39,Richmond,75,Annual Wellness Visit
+308,Mary,Lam,1951-05-28,Female,Medicare Advantage,1.37,Richmond,75,Annual Wellness Visit
+545,Stephen,Henderson,1951-05-28,Male,Employer Sponsored,1.37,Fairfax,75,Annual Wellness Visit
+390,John,Zuniga,1947-05-29,Male,Medicare Advantage,1.37,Fairfax,79,Annual Wellness Visit
+308,Mary,Lam,1951-05-28,Female,Medicare Advantage,1.37,Richmond,75,Colorectal Screening
+831,Michael,Grant,1955-05-27,Male,Medicare Advantage,1.37,Richmond,71,Annual Wellness Visit
+424,Marissa,Owens,1966-05-24,Female,Medicare Advantage,1.36,Henrico,60,Colorectal Screening
+499,Barbara,Wright,1976-05-21,Female,Employer Sponsored,1.34,Arlington,50,Breast Cancer Screening
+403,Sabrina,Rangel,1942-05-30,Female,Employer Sponsored,1.32,Richmond,84,Annual Wellness Visit
+589,Eric,Hampton,1945-05-29,Male,Employer Sponsored,1.32,Richmond,81,Annual Wellness Visit
+785,Scott,Craig,1958-05-26,Male,Medicare Advantage,1.32,Fairfax,68,Annual Wellness Visit
+198,Kimberly,Taylor,1943-05-30,Female,Employer Sponsored,1.32,Richmond,83,Annual Wellness Visit
+537,Kelly,Ayers,1960-05-25,Female,Medicare Advantage,1.3,Fairfax,66,Colorectal Screening
+537,Kelly,Ayers,1960-05-25,Female,Medicare Advantage,1.3,Fairfax,66,Annual Wellness Visit
+150,Dana,Richmond,1956-05-26,Female,Medicare Advantage,1.29,Richmond,70,Annual Wellness Visit
+879,Lauren,Cooper,1969-05-23,Female,Employer Sponsored,1.28,Arlington,57,Colorectal Screening
+879,Lauren,Cooper,1969-05-23,Female,Employer Sponsored,1.28,Arlington,57,Breast Cancer Screening
+928,Timothy,Mendoza,1949-05-28,Male,Employer Sponsored,1.28,Fairfax,77,Annual Wellness Visit
+876,Kevin,Myers,1958-05-26,Male,Employer Sponsored,1.27,Richmond,68,Annual Wellness Visit
+455,Tanya,Ford,1965-05-24,Female,Employer Sponsored,1.27,Arlington,61,Breast Cancer Screening
+876,Kevin,Myers,1958-05-26,Male,Employer Sponsored,1.27,Richmond,68,Colorectal Screening
+113,Peter,Taylor,1948-05-28,Male,Employer Sponsored,1.26,Richmond,78,Annual Wellness Visit
+81,Michael,Morton,1960-05-25,Male,Medicare Advantage,1.26,Arlington,66,Annual Wellness Visit
+81,Michael,Morton,1960-05-25,Male,Medicare Advantage,1.26,Arlington,66,Colorectal Screening
+547,Mary,Rowland,1952-05-27,Female,Medicare Advantage,1.25,Fairfax,74,Annual Wellness Visit
+979,Henry,Sutton,1950-05-28,Male,Medicare Advantage,1.25,Richmond,76,Annual Wellness Visit
+904,Ruth,Roach,1952-05-27,Female,Employer Sponsored,1.24,Richmond,74,Colorectal Screening
+904,Ruth,Roach,1952-05-27,Female,Employer Sponsored,1.24,Richmond,74,Breast Cancer Screening
+572,Alexander,Hebert,1955-05-27,Male,Medicare Advantage,1.24,Fairfax,71,Annual Wellness Visit
+904,Ruth,Roach,1952-05-27,Female,Employer Sponsored,1.24,Richmond,74,Annual Wellness Visit
+593,Joy,Holland,1942-05-30,Female,Medicare Advantage,1.23,Arlington,84,Annual Wellness Visit
+263,Mary,Massey,1969-05-23,Female,Medicare Advantage,1.23,Arlington,57,Breast Cancer Screening
+93,Jason,Garcia,1965-05-24,Male,Employer Sponsored,1.23,Richmond,61,Colorectal Screening
+220,Megan,Wong,1946-05-29,Female,Employer Sponsored,1.23,Henrico,80,Annual Wellness Visit
+433,Travis,Estes,1958-05-26,Male,Medicare Advantage,1.23,Richmond,68,Annual Wellness Visit
+29,Eric,Johnson,1943-05-30,Male,Employer Sponsored,1.22,Henrico,83,Annual Wellness Visit
+575,Brandon,Hall,1972-05-22,Male,Medicare Advantage,1.22,Richmond,54,Colorectal Screening
+918,Margaret,Smith,1961-05-25,Female,Employer Sponsored,1.21,Arlington,65,Annual Wellness Visit
+192,Kristie,Ramirez,1965-05-24,Female,Medicare Advantage,1.2,Fairfax,61,Colorectal Screening
+192,Kristie,Ramirez,1965-05-24,Female,Medicare Advantage,1.2,Fairfax,61,Breast Cancer Screening
+857,Wendy,Johnson,1968-05-23,Female,Medicare Advantage,1.19,Fairfax,58,Colorectal Screening
+471,Erin,Powell,1963-05-25,Female,Medicare Advantage,1.19,Arlington,63,Breast Cancer Screening
+857,Wendy,Johnson,1968-05-23,Female,Medicare Advantage,1.19,Fairfax,58,Breast Cancer Screening
+896,Frank,Martin,1944-05-29,Male,Employer Sponsored,1.18,Henrico,82,Annual Wellness Visit
+242,Jessica,Miller,1954-05-27,Female,Employer Sponsored,1.17,Richmond,72,Annual Wellness Visit
+845,Heidi,Gonzalez,1973-05-22,Female,Employer Sponsored,1.17,Fairfax,53,Breast Cancer Screening
+954,Patrick,Williams,1943-05-30,Male,Employer Sponsored,1.16,Richmond,83,Annual Wellness Visit
+4,Monica,Moore,1951-05-28,Female,Employer Sponsored,1.16,Fairfax,75,Annual Wellness Visit
+94,Kelli,Barton,1947-05-29,Female,Employer Sponsored,1.16,Arlington,79,Annual Wellness Visit
+252,Robert,Henderson,1970-05-23,Male,Employer Sponsored,1.15,Richmond,56,Colorectal Screening
+37,Ashley,Matthews,1979-05-21,Female,Employer Sponsored,1.14,Henrico,47,Colorectal Screening
+815,Cynthia,Boyd,1956-05-26,Female,Medicare Advantage,1.13,Henrico,70,Breast Cancer Screening
+816,Jeremy,Hayes,1943-05-30,Male,Medicare Advantage,1.12,Arlington,83,Annual Wellness Visit
+573,Amanda,Smith,1942-05-30,Female,Employer Sponsored,1.12,Henrico,84,Annual Wellness Visit
+679,Erica,Cook,1953-05-27,Female,Employer Sponsored,1.11,Henrico,73,Annual Wellness Visit
+890,Michael,Smith,1968-05-23,Male,Medicare Advantage,1.11,Fairfax,58,Colorectal Screening
+989,Erin,Ramos,1941-05-30,Female,Medicare Advantage,1.11,Arlington,85,Annual Wellness Visit
+443,Jeffrey,Baker,1981-05-20,Male,Employer Sponsored,1.11,Richmond,45,Colorectal Screening
+169,Michael,Matthews,1948-05-28,Male,Medicare Advantage,1.11,Henrico,78,Annual Wellness Visit
+787,Tommy,Jensen,1951-05-28,Male,Medicare Advantage,1.1,Fairfax,75,Annual Wellness Visit
+667,Scott,Kelly,1944-05-29,Male,Employer Sponsored,1.1,Richmond,82,Annual Wellness Visit
+792,Pamela,Guerrero,1954-05-27,Female,Medicare Advantage,1.1,Henrico,72,Colorectal Screening
+970,Mario,Nelson,1966-05-24,Male,Employer Sponsored,1.1,Richmond,60,Colorectal Screening
+967,Katherine,Bush,1949-05-28,Female,Medicare Advantage,1.1,Richmond,77,Annual Wellness Visit
+286,Robert,Hendrix,1947-05-29,Male,Employer Sponsored,1.08,Henrico,79,Annual Wellness Visit
+380,Leah,Rodriguez,1960-05-25,Female,Medicare Advantage,1.07,Arlington,66,Colorectal Screening
+380,Leah,Rodriguez,1960-05-25,Female,Medicare Advantage,1.07,Arlington,66,Annual Wellness Visit
+958,Justin,Daniel,1979-05-21,Male,Employer Sponsored,1.06,Richmond,47,Colorectal Screening
+400,Andrew,Garcia,1946-05-29,Male,Employer Sponsored,1.06,Fairfax,80,Annual Wellness Visit
+778,Sharon,Carpenter,1980-05-20,Female,Medicare Advantage,1.06,Arlington,46,Colorectal Screening
+755,Jennifer,Woodard,1973-05-22,Female,Employer Sponsored,1.05,Arlington,53,Breast Cancer Screening
+670,Kimberly,Kim,1955-05-27,Female,Employer Sponsored,1.05,Arlington,71,Breast Cancer Screening
+670,Kimberly,Kim,1955-05-27,Female,Employer Sponsored,1.05,Arlington,71,Annual Wellness Visit
+881,Lisa,Harmon,1970-05-23,Female,Employer Sponsored,1.04,Arlington,56,Breast Cancer Screening
+203,Gerald,Davis,1976-05-21,Male,Employer Sponsored,1.03,Henrico,50,Colorectal Screening
+840,Charles,Walker,1961-05-25,Male,Medicare Advantage,1.03,Richmond,65,Annual Wellness Visit
+268,Rebecca,Morales,1948-05-28,Female,Medicare Advantage,1.03,Arlington,78,Annual Wellness Visit
+924,James,Carter,1945-05-29,Male,Medicare Advantage,1.03,Arlington,81,Annual Wellness Visit
+637,Timothy,Cobb,1943-05-30,Male,Medicare Advantage,1.03,Fairfax,83,Annual Wellness Visit
+840,Charles,Walker,1961-05-25,Male,Medicare Advantage,1.03,Richmond,65,Colorectal Screening
+647,David,Buckley,1955-05-27,Male,Employer Sponsored,1.02,Fairfax,71,Annual Wellness Visit
+325,Donald,Brown,1958-05-26,Male,Employer Sponsored,1.0,Arlington,68,Annual Wellness Visit
+587,Andrew,Watkins,1974-05-22,Male,Employer Sponsored,1.0,Henrico,52,Colorectal Screening
+45,Dawn,Harper,1948-05-28,Female,Medicare Advantage,1.0,Arlington,78,Annual Wellness Visit
+734,Paul,Robertson,1948-05-28,Male,Medicare Advantage,0.99,Arlington,78,Annual Wellness Visit
+14,Jessica,Watts,1962-05-25,Female,Medicare Advantage,0.99,Arlington,64,Breast Cancer Screening
+411,Christina,Austin,1967-05-24,Female,Employer Sponsored,0.98,Fairfax,59,Breast Cancer Screening
+829,Norma,Olson,1970-05-23,Female,Medicare Advantage,0.98,Henrico,56,Breast Cancer Screening
+25,Rachel,Wagner,1978-05-21,Female,Employer Sponsored,0.97,Richmond,48,Colorectal Screening
+430,Charlotte,Nguyen,1967-05-24,Female,Employer Sponsored,0.97,Henrico,59,Breast Cancer Screening
+430,Charlotte,Nguyen,1967-05-24,Female,Employer Sponsored,0.97,Henrico,59,Colorectal Screening
+27,Benjamin,Smith,1943-05-30,Male,Medicare Advantage,0.96,Henrico,83,Annual Wellness Visit
+793,Cameron,Fox,1953-05-27,Male,Employer Sponsored,0.94,Richmond,73,Colorectal Screening
+793,Cameron,Fox,1953-05-27,Male,Employer Sponsored,0.94,Richmond,73,Annual Wellness Visit
+190,Benjamin,Garcia,1973-05-22,Male,Employer Sponsored,0.94,Arlington,53,Colorectal Screening
+206,Jessica,Moore,1967-05-24,Female,Medicare Advantage,0.92,Henrico,59,Colorectal Screening
+206,Jessica,Moore,1967-05-24,Female,Medicare Advantage,0.92,Henrico,59,Breast Cancer Screening
+503,Christopher,Klein,1953-05-27,Male,Employer Sponsored,0.92,Fairfax,73,Annual Wellness Visit
+721,Ashley,Garcia,1941-05-30,Female,Medicare Advantage,0.91,Henrico,85,Annual Wellness Visit
+110,Teresa,Bruce,1955-05-27,Female,Employer Sponsored,0.91,Arlington,71,Breast Cancer Screening
+494,Megan,Moore,1967-05-24,Female,Medicare Advantage,0.91,Richmond,59,Colorectal Screening
+786,Cody,Vega,1968-05-23,Male,Medicare Advantage,0.91,Fairfax,58,Colorectal Screening
+110,Teresa,Bruce,1955-05-27,Female,Employer Sponsored,0.91,Arlington,71,Colorectal Screening
+110,Teresa,Bruce,1955-05-27,Female,Employer Sponsored,0.91,Arlington,71,Annual Wellness Visit
+868,Kaitlyn,Brown,1972-05-22,Female,Employer Sponsored,0.9,Richmond,54,Breast Cancer Screening
+576,Dana,Daniels,1973-05-22,Female,Employer Sponsored,0.9,Arlington,53,Breast Cancer Screening
+868,Kaitlyn,Brown,1972-05-22,Female,Employer Sponsored,0.9,Richmond,54,Colorectal Screening
+726,Evan,Holmes,1946-05-29,Male,Medicare Advantage,0.89,Arlington,80,Annual Wellness Visit
+370,Taylor,Porter,1944-05-29,Male,Medicare Advantage,0.89,Richmond,82,Annual Wellness Visit
+943,John,Lara,1956-05-26,Male,Medicare Advantage,0.89,Henrico,70,Annual Wellness Visit
+349,Kara,Washington,1956-05-26,Female,Employer Sponsored,0.88,Fairfax,70,Breast Cancer Screening
+349,Kara,Washington,1956-05-26,Female,Employer Sponsored,0.88,Fairfax,70,Colorectal Screening
+678,Ashley,Tucker,1945-05-29,Female,Medicare Advantage,0.88,Arlington,81,Annual Wellness Visit
+349,Kara,Washington,1956-05-26,Female,Employer Sponsored,0.88,Fairfax,70,Annual Wellness Visit
+827,Brooke,Anderson,1961-05-25,Female,Medicare Advantage,0.87,Richmond,65,Annual Wellness Visit
+827,Brooke,Anderson,1961-05-25,Female,Medicare Advantage,0.87,Richmond,65,Colorectal Screening
+170,Ryan,Shaw,1968-05-23,Male,Employer Sponsored,0.86,Henrico,58,Colorectal Screening
+339,Kevin,King,1964-05-24,Male,Medicare Advantage,0.86,Henrico,62,Colorectal Screening
+527,Kelsey,Rojas,1981-05-20,Female,Employer Sponsored,0.85,Fairfax,45,Colorectal Screening
+760,Jennifer,Baker,1966-05-24,Female,Employer Sponsored,0.84,Arlington,60,Breast Cancer Screening
+757,William,Dickerson,1955-05-27,Male,Medicare Advantage,0.84,Richmond,71,Colorectal Screening
+243,Derek,Greene,1942-05-30,Male,Employer Sponsored,0.84,Fairfax,84,Annual Wellness Visit
+760,Jennifer,Baker,1966-05-24,Female,Employer Sponsored,0.84,Arlington,60,Colorectal Screening
+757,William,Dickerson,1955-05-27,Male,Medicare Advantage,0.84,Richmond,71,Annual Wellness Visit
+209,Erik,Stafford,1944-05-29,Male,Employer Sponsored,0.83,Henrico,82,Annual Wellness Visit
+509,Kevin,Wheeler,1946-05-29,Male,Employer Sponsored,0.82,Richmond,80,Annual Wellness Visit
+121,Amy,Norris,1959-05-26,Female,Medicare Advantage,0.81,Fairfax,67,Annual Wellness Visit
+142,Sandra,Valencia,1956-05-26,Female,Employer Sponsored,0.81,Richmond,70,Annual Wellness Visit
+121,Amy,Norris,1959-05-26,Female,Medicare Advantage,0.81,Fairfax,67,Breast Cancer Screening
+770,Thomas,Garcia,1949-05-28,Male,Medicare Advantage,0.81,Arlington,77,Annual Wellness Visit
+142,Sandra,Valencia,1956-05-26,Female,Employer Sponsored,0.81,Richmond,70,Colorectal Screening
+121,Amy,Norris,1959-05-26,Female,Medicare Advantage,0.81,Fairfax,67,Colorectal Screening
+142,Sandra,Valencia,1956-05-26,Female,Employer Sponsored,0.81,Richmond,70,Breast Cancer Screening
+996,Christine,Martinez,1963-05-25,Female,Medicare Advantage,0.8,Henrico,63,Breast Cancer Screening
+217,Angela,Morgan,1942-05-30,Female,Employer Sponsored,0.8,Fairfax,84,Annual Wellness Visit
+606,Chelsea,Glenn,1951-05-28,Female,Employer Sponsored,0.78,Henrico,75,Annual Wellness Visit
+752,Donald,Mckinney,1949-05-28,Male,Medicare Advantage,0.78,Richmond,77,Annual Wellness Visit
+558,Jennifer,Cantu,1941-05-30,Female,Employer Sponsored,0.78,Fairfax,85,Annual Wellness Visit
+90,Sara,Rasmussen,1978-05-21,Female,Employer Sponsored,0.78,Henrico,48,Colorectal Screening
+207,Billy,Parker,1942-05-30,Male,Employer Sponsored,0.77,Arlington,84,Annual Wellness Visit
+673,Amy,Romero,1948-05-28,Female,Medicare Advantage,0.76,Fairfax,78,Annual Wellness Visit
+580,Matthew,Meza,1952-05-27,Male,Employer Sponsored,0.75,Henrico,74,Colorectal Screening
+482,Renee,Wilson,1951-05-28,Female,Medicare Advantage,0.75,Henrico,75,Annual Wellness Visit
+482,Renee,Wilson,1951-05-28,Female,Medicare Advantage,0.75,Henrico,75,Colorectal Screening
+465,Christopher,Glass,1979-05-21,Male,Employer Sponsored,0.74,Arlington,47,Colorectal Screening
+905,Jeffrey,Smith,1953-05-27,Male,Employer Sponsored,0.73,Henrico,73,Annual Wellness Visit
+549,Gary,Parker,1972-05-22,Male,Employer Sponsored,0.73,Richmond,54,Colorectal Screening
+265,Alan,Cox,1947-05-29,Male,Medicare Advantage,0.73,Richmond,79,Annual Wellness Visit
+273,Eugene,Johnson,1943-05-30,Male,Employer Sponsored,0.73,Richmond,83,Annual Wellness Visit
+369,Brent,Morales,1961-05-25,Male,Employer Sponsored,0.72,Arlington,65,Annual Wellness Visit
+369,Brent,Morales,1961-05-25,Male,Employer Sponsored,0.72,Arlington,65,Colorectal Screening
+805,Ethan,Byrd,1946-05-29,Male,Employer Sponsored,0.72,Fairfax,80,Annual Wellness Visit
+194,Bryan,Adams,1953-05-27,Male,Medicare Advantage,0.72,Fairfax,73,Annual Wellness Visit
+982,Timothy,Gonzalez,1979-05-21,Male,Medicare Advantage,0.71,Henrico,47,Colorectal Screening
+964,Lauren,Sanchez,1979-05-21,Female,Employer Sponsored,0.71,Arlington,47,Colorectal Screening
+237,Jocelyn,White,1953-05-27,Female,Employer Sponsored,0.7,Richmond,73,Breast Cancer Screening
+237,Jocelyn,White,1953-05-27,Female,Employer Sponsored,0.7,Richmond,73,Colorectal Screening
+237,Jocelyn,White,1953-05-27,Female,Employer Sponsored,0.7,Richmond,73,Annual Wellness Visit
+315,Melissa,Walker,1945-05-29,Female,Medicare Advantage,0.69,Arlington,81,Annual Wellness Visit
+416,Melissa,Young,1960-05-25,Female,Medicare Advantage,0.69,Henrico,66,Breast Cancer Screening
+416,Melissa,Young,1960-05-25,Female,Medicare Advantage,0.69,Henrico,66,Annual Wellness Visit
+34,Tracy,Parsons,1981-05-20,Female,Medicare Advantage,0.69,Richmond,45,Colorectal Screening
+643,Sabrina,Rios,1945-05-29,Female,Employer Sponsored,0.68,Henrico,81,Annual Wellness Visit
+437,Stanley,Jackson,1977-05-21,Male,Employer Sponsored,0.68,Henrico,49,Colorectal Screening
+629,Roy,Turner,1961-05-25,Male,Employer Sponsored,0.68,Fairfax,65,Annual Wellness Visit
+295,Denise,Freeman,1941-05-30,Female,Employer Sponsored,0.66,Arlington,85,Annual Wellness Visit
+44,Benjamin,Stewart,1945-05-29,Male,Medicare Advantage,0.65,Richmond,81,Annual Wellness Visit
+10,Kimberly,Matthews,1951-05-28,Female,Medicare Advantage,0.64,Henrico,75,Annual Wellness Visit
+555,Evan,Ponce,1953-05-27,Male,Medicare Advantage,0.64,Arlington,73,Annual Wellness Visit
+10,Kimberly,Matthews,1951-05-28,Female,Medicare Advantage,0.64,Henrico,75,Colorectal Screening
+438,Larry,Green,1961-05-25,Male,Employer Sponsored,0.64,Fairfax,65,Annual Wellness Visit
+988,Taylor,Ward,1963-05-25,Female,Medicare Advantage,0.63,Henrico,63,Colorectal Screening
+79,Jennifer,White,1959-05-26,Female,Employer Sponsored,0.61,Arlington,67,Annual Wellness Visit
+633,Nicole,Scott,1976-05-21,Female,Medicare Advantage,0.59,Fairfax,50,Breast Cancer Screening
+340,Jacqueline,Lopez,1981-05-20,Female,Employer Sponsored,0.58,Fairfax,45,Colorectal Screening
+791,Ashley,Smith,1963-05-25,Female,Medicare Advantage,0.58,Henrico,63,Colorectal Screening
+791,Ashley,Smith,1963-05-25,Female,Medicare Advantage,0.58,Henrico,63,Breast Cancer Screening
+940,Francisco,Richmond,1961-05-25,Male,Medicare Advantage,0.58,Arlington,65,Annual Wellness Visit
+817,Denise,Dunn,1949-05-28,Female,Medicare Advantage,0.57,Fairfax,77,Annual Wellness Visit
+622,Robert,Romero,1944-05-29,Male,Medicare Advantage,0.57,Richmond,82,Annual Wellness Visit
+978,Danny,Carter,1950-05-28,Male,Medicare Advantage,0.56,Arlington,76,Annual Wellness Visit
+641,Lindsey,White,1958-05-26,Female,Medicare Advantage,0.56,Arlington,68,Annual Wellness Visit
+183,Rachel,Sanchez,1963-05-25,Female,Employer Sponsored,0.55,Henrico,63,Breast Cancer Screening
+183,Rachel,Sanchez,1963-05-25,Female,Employer Sponsored,0.55,Henrico,63,Colorectal Screening
+225,Susan,Martinez,1959-05-26,Female,Employer Sponsored,0.55,Fairfax,67,Annual Wellness Visit
+729,Richard,Hensley,1948-05-28,Male,Medicare Advantage,0.55,Richmond,78,Annual Wellness Visit
+578,Lisa,Wu,1959-05-26,Female,Medicare Advantage,0.54,Henrico,67,Breast Cancer Screening
+488,John,Jones,1941-05-30,Male,Employer Sponsored,0.54,Arlington,85,Annual Wellness Visit
+578,Lisa,Wu,1959-05-26,Female,Medicare Advantage,0.54,Henrico,67,Colorectal Screening
+578,Lisa,Wu,1959-05-26,Female,Medicare Advantage,0.54,Henrico,67,Annual Wellness Visit
+460,Lauren,Lopez,1951-05-28,Female,Medicare Advantage,0.53,Arlington,75,Annual Wellness Visit
+764,Wendy,Campos,1943-05-30,Female,Medicare Advantage,0.53,Henrico,83,Annual Wellness Visit
+395,Gina,Howard,1953-05-27,Female,Medicare Advantage,0.52,Henrico,73,Annual Wellness Visit
+395,Gina,Howard,1953-05-27,Female,Medicare Advantage,0.52,Henrico,73,Colorectal Screening
+35,Stacey,Patel,1959-05-26,Female,Medicare Advantage,0.52,Richmond,67,Annual Wellness Visit
+724,Michael,Williams,1956-05-26,Male,Medicare Advantage,0.51,Fairfax,70,Annual Wellness Visit
+775,Margaret,Murray,1948-05-28,Female,Medicare Advantage,0.51,Fairfax,78,Annual Wellness Visit

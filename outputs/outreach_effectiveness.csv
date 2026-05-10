@@ -1,0 +1,13 @@
+recommended_channel,outreach_status,gap_closed,member_count
+Email,Completed,No,73
+Email,Completed,Yes,120
+Email,Pending,No,92
+Email,Unable to Reach,No,58
+Phone,Completed,No,35
+Phone,Completed,Yes,70
+Phone,Pending,No,46
+Phone,Unable to Reach,No,24
+SMS,Completed,No,37
+SMS,Completed,Yes,61
+SMS,Pending,No,61
+SMS,Unable to Reach,No,31
